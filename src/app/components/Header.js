@@ -11,7 +11,7 @@ const Header = () => {
 
   return (
     <div className="flex flex-col md:flex-row md:gap-2 justify-between items-center">
-      <a className="text-3xl" href="/">Kyle Mori</a>
+      <a className="text-3xl" href="/">kyle mori</a>
       <nav className="flex space-x-4 text-xl items-center">
           <a href="/projects" className={getLinkClass('/projects')}>projects</a>
           <a href="/resume" className={getLinkClass('/resume')}>resume</a>
