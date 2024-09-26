@@ -1,12 +1,12 @@
 export default function Home() {
   return (
-    <>
+    <div>
       {/* <div className="text-4xl">
         hello.
       </div> */}
       <div>
-        <p>Hi! I'm a student at the University of British Columbia.</p>
+        Hi! I am a student at the University of British Columbia.
       </div>
-    </>
+    </div>
   );
 }
