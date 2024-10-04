@@ -5,7 +5,7 @@ export default function Home() {
         hello.
       </div> */}
       <div>
-        Hi! I am a student at the University of British Columbia.
+        I am currently a student at the University of British Columbia.
       </div>
     </div>
   );
